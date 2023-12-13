@@ -6,4 +6,4 @@ services:
     env_file:
       - .env
     environment:
-      - CONNECTION_URI=mongodb+srv://scc:zl3FgVm5ltDC9apx@scclogs.sr0abcz.mongodb.net/
+      - CONNECTION_URI=mongodb+srv://scc
